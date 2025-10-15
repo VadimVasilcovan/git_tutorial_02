@@ -1,2 +1,2 @@
 console.log("index.js ")
-console.log ("commit for version 5") 
+console.log ("version12  ") 
